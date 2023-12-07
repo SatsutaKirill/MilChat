@@ -1,7 +1,7 @@
 # MilChat
-Просто чат.
+Приложение представляет собой мессенджер, который работает на базе одного ПК.
 
-Операционная система: Windows   
+Операционная система: Windows, macOS   
 
 Языки программирования: JavaScript, HTML, CSS   
 Язык интерфейса: UML
@@ -13,4 +13,6 @@
 [Диаграммы](https://github.com/SatsutaKirill/MilChat/tree/main/diagrams)
 
 [Код программы](https://github.com/SatsutaKirill/MilChat/tree/main/code)
+
+[Тестирование](https://github.com/SatsutaKirill/MilChat/tree/main/test)
 
