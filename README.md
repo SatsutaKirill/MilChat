@@ -8,7 +8,7 @@
 
 [Требования к проекту](https://github.com/SatsutaKirill/RouteGo/blob/main/SRS.md)
 
-[Интерфейс пользователя](https://github.com/SatsutaKirill/RouteGo/tree/main/mockups).
+[Интерфейс пользователя](https://github.com/SatsutaKirill/MilChat/tree/main/mockups).
 
 [Диаграммы](https://github.com/SatsutaKirill/RouteGo/tree/main/diagrams)
 
