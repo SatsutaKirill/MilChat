@@ -6,7 +6,7 @@
 Языки программирования: JavaScript, HTML, CSS   
 Язык интерфейса: UML
 
-[Требования к проекту](https://github.com/SatsutaKirill/RouteGo/blob/main/SRS.md)
+[Требования к проекту](https://github.com/SatsutaKirill/MilChat/blob/main/SRS.md)
 
 [Интерфейс пользователя](https://github.com/SatsutaKirill/MilChat/tree/main/mockups).
 
