@@ -10,5 +10,5 @@
 
 [Интерфейс пользователя](https://github.com/SatsutaKirill/MilChat/tree/main/mockups).
 
-[Диаграммы](https://github.com/SatsutaKirill/RouteGo/tree/main/diagrams)
+[Диаграммы](https://github.com/SatsutaKirill/MilChat/tree/main/diagrams)
 
