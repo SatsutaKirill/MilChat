@@ -12,5 +12,5 @@
 
 [Диаграммы](https://github.com/SatsutaKirill/MilChat/tree/main/diagrams)
 
-[Код программы]()
+[Код программы](https://github.com/SatsutaKirill/MilChat/tree/main/code)
 
